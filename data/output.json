@@ -1,0 +1,14 @@
+{
+  "allocations": [
+    {
+      "id": "A1",
+      "assignedDiscount": null,
+      "justification": "Received this amount due to high performance, long-term loyalty."
+    },
+    {
+      "id": "A2",
+      "assignedDiscount": null,
+      "justification": "Received this amount due to consistent contribution."
+    }
+  ]
+}
