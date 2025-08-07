@@ -26,8 +26,10 @@ When designing this system, my aim was to build a **reward model that motivates 
    These factors ensure we reward not just individual efficiency but overall **impact**.
 
    > 🧠 For example:  
-   > If Agent A achieves 90% of their target with 5 clients, and Agent B achieves 70% with 10 clients —  
-   > **Agent B has greater impact** and should be rewarded accordingly.
+   >If Agent A has a performance score of 95 but joined recently and handles 2 clients,
+   and Agent B scores 80 but has been with the company for years and manages 10 clients —
+   Agent B’s contribution is broader and more sustainable.
+   This model balances short-term performance with long-term impact
 
 ---
 
