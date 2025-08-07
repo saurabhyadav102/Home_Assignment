@@ -9,7 +9,7 @@ This project implements a smart and fair system to distribute a company’s disc
 
 ## 🧠 Thought Process Behind the Implementation
 
-When designing this system, my aim was to build a **reward model that motivates agents and aligns their personal growth with the company's growth**.
+When designing this system, my goal was to build a reward model that aligns the agent’s growth with the company’s growth. Instead of simply rewarding high numbers, the system emphasizes balanced contribution, loyalty, and real-world impact..
 
 ### Here's the logic I followed:
 
